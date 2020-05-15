@@ -160,6 +160,7 @@
     DECL(klimalogg) \
     DECL(visonic_powercode) \
     DECL(eurochron_efth800) \
+    DECL(ert_scm_plus) \
 
     /* Add new decoders here. */
 

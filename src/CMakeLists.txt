@@ -62,6 +62,7 @@ add_library(r_433 STATIC
     devices/elv.c
     devices/emontx.c
     devices/ert.c
+    devices/ert+.c
     devices/esa.c
     devices/esic_emt7110.c
     devices/esperanza_ews.c
